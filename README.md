@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandeshGC
-- 👀 I’m interested in computers and internet. I like playing games (a lot).
+- 👀 I’m interested in computers and internet. I like playing games.
 - 🌱 I’m currently learning web development.
 - 📫 You can contact me through my email at: gcsandesh01@gmail.com
 - Discord: Boogeyman #4141
