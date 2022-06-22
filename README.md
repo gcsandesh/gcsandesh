@@ -1,4 +1,4 @@
-#About Me
+**About Me**
 - 👋 Hi, I’m @SandeshGC
 - 👀 I’m interested in computers and internet. I like playing games.
 - 🌱 I’m currently learning web development.
