@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning web development.
 - 📫 You can contact me via email at: **gcsandesh01@gmail.com**
 - **Discord**: Boogeyman #4141
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeshGC&show_icons=true&theme=dark&locale=en&layout=compact" alt="SandeshGC" />
-</p>
+
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
@@ -59,15 +57,24 @@
 </a> -->
 </p>
 
+
+<!-- Most Used Languages -->
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeshGC&show_icons=true&theme=dark&locale=en&layout=compact" alt="SandeshGC" />
+</p>
+
+
 <!-- Github Stats -->
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SandeshGC&show_icons=true&theme=dark&locale=en" alt="SandeshGC" />
 </p>
 
+
 <!-- Contributions, Current Streak, Longest streak -->
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshGC&theme=dark&locale=en" alt="SandeshGC" />
 </p>
+
 
 <!-- Profile views -->
 <p alight="right">
