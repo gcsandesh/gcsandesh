@@ -1,10 +1,11 @@
 # About Me
 
 - 👋 Hi, I’m **SandeshGC**
-- 👀 I’m interested in computers and internet. I like playing games.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in computers and internet.
+- 🌱 I’m currently learning React JS.
 - 📫 You can contact me via email at: **gcsandesh01@gmail.com**
 - **Discord**: Boogeyman #4141
+- **Twitter**: [gcsandesh01](https://twitter.com/gcsandesh01)
 
 
 <!-- Languages and Tools -->
