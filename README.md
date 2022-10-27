@@ -7,7 +7,7 @@
 - **Discord**: Boogeyman #4141
 - **Twitter**: [gcsandesh01](https://twitter.com/gcsandesh01)
 
-<p align="right">
+<p align="right" style="position: absolute; right: 0;">
     <a href="https://app.daily.dev/gcsandesh"><img src="https://api.daily.dev/devcards/822d0f788c5c4eabbfc628335d4ec7fd.png?r=ab7" width="400" alt="Sandesh GC's Dev Card"/></a>
 </p>
 
