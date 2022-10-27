@@ -7,6 +7,10 @@
 - **Discord**: Boogeyman #4141
 - **Twitter**: [gcsandesh01](https://twitter.com/gcsandesh01)
 
+<p align="right">
+    <a href="https://app.daily.dev/gcsandesh"><img src="https://api.daily.dev/devcards/822d0f788c5c4eabbfc628335d4ec7fd.png?r=ab7" width="400" alt="Sandesh GC's Dev Card"/></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="linkedin.com/in/sandesh-gc-8236b2195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehil gupta" height="30" width="40" /></a>
