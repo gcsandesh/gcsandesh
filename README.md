@@ -164,12 +164,12 @@
 </p>
 
 
-<p align="right">
-    <a href="https://app.daily.dev/gcsandesh"><img src="https://api.daily.dev/devcards/822d0f788c5c4eabbfc628335d4ec7fd.png?r=ab7" width="400" alt="Sandesh GC's Dev Card"/></a>
+<p align="center">
+    <a href="https://app.daily.dev/gcsandesh"><img src="https://api.daily.dev/devcards/822d0f788c5c4eabbfc628335d4ec7fd.png?r=ab7" width="250" alt="Sandesh GC's Dev Card"/></a>
 </p>
 
 
 <!-- Profile views -->
-<p alight="right">
+<p align="center">
   <img align="right" src="https://komarev.com/ghpvc/?username=SandeshGC&style=plastic&color=blue" />
 </p>
