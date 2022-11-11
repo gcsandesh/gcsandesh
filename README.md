@@ -154,9 +154,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SandeshGC&show_icons=true&theme=dark&locale=en" alt="SandeshGC" />
 </p> -->
 
-### Trophies:
+<!-- ### Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=SandeshGC&theme=onedark)
-
+ -->
+ 
 ### Contributions & Streaks:
 <!-- Contributions, Current Streak, Longest streak -->
 <p align="left">
@@ -164,9 +165,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://app.daily.dev/gcsandesh"><img src="https://api.daily.dev/devcards/822d0f788c5c4eabbfc628335d4ec7fd.png?r=ab7" width="250" alt="Sandesh GC's Dev Card"/></a>
-</p>
+</p> -->
 
 
 <!-- Profile views -->
