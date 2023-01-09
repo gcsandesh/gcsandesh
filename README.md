@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **SandeshGC**
 - 👀 I’m interested in computers and internet.
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently learning React.js, Node.js, Express.js & MongoDB.
 - 📫 You can contact me via email at: **gcsandesh01@gmail.com**
 - **Discord**: Boogeyman #4141
 - **Twitter**: [gcsandesh01](https://twitter.com/gcsandesh01)
@@ -22,7 +22,8 @@
 <!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a> -->
- <!--CPP-->
+    
+<!--CPP-->
 <!--   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a> -->
@@ -69,11 +70,11 @@
  </a>
  
  
-<!--  Express JS -->
+ Express JS
 
-<!--  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
- </a>  -->
+ </a> 
  
  
  <!--Tailwind CSS-->
@@ -106,9 +107,9 @@
 
 <!-- Python -->
  
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+</a> -->
  
  
 <!-- Django -->
@@ -118,18 +119,18 @@
 </a> -->
 
  
-<!--  MongoDB -->
+ MongoDB
  
-<!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>  -->
+</a> 
 
  
- <!--MySQL-->
+ MySQL
  
-<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a> -->
+</a>
  
  
 <!-- TypeScript  -->
@@ -163,12 +164,6 @@
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshGC&theme=dark&locale=en" alt="SandeshGC" />
 </p>
-
-
-<!-- <p align="center">
-    <a href="https://app.daily.dev/gcsandesh"><img src="https://api.daily.dev/devcards/822d0f788c5c4eabbfc628335d4ec7fd.png?r=ab7" width="250" alt="Sandesh GC's Dev Card"/></a>
-</p> -->
-
 
 <!-- Profile views -->
 <p align="center">
