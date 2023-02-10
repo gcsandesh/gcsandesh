@@ -18,6 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+    
 <!--C-->
 <!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -144,9 +145,9 @@
 
 
 <!-- Most Used Languages -->
-<!-- <p align="left">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeshGC&show_icons=true&theme=dark&locale=en&layout=compact" alt="SandeshGC" />
-</p> -->
+</p>
 
 
 <!-- Github Stats -->
