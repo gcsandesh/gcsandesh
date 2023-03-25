@@ -8,26 +8,32 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="linkedin.com/in/sandesh-gc-8236b2195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandesh GC" height="30" width="40" /></a>
-    <a href="https://fb.com/gcsandesh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sandesh GC" height="30" width="40" /></a>
-    <a href="https://instagram.com/gcsandesh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sandesh GC" height="30" width="40" /></a>
-    <a href="https://twitter.com/gcsandesh01" class="twitter-follow-button" data-show-count="false" data-size="medium">Follow @gcsandesh01</a>
-<!--     **Discord**: Boogeyman #4141 -->
-<!--     **Twitter**: [gcsandesh01](https://twitter.com/gcsandesh01) -->
-</p>
+
+<a href="linkedin.com/in/sandesh-gc-8236b2195" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandesh GC" height="30" width="40" />
+</a>
+<a href="https://fb.com/gcsandesh01" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sandesh GC" height="30" width="40" />
+</a>
+<a href="https://instagram.com/gcsandesh_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sandesh GC" height="30" width="40" />
+</a>
+<a href="https://twitter.com/gcsandesh01" target = "blank">
+    <img align = "center" title = "Twitter" alt = "Twitter" width = "40" height = "30" src = "https://user-images.githubusercontent.com/59115123/227725427-ad4d27bc-1007-4960-95fa-c2bcf1ec322b.svg" />
+</a>
+
+<br/>
 
 <!-- Languages and Tools -->
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- Most Used Languages -->
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeshGC&show_icons=true&theme=dark&locale=en&layout=compact" alt="SandeshGC" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeshGC&show_icons=true&theme=dark&locale=en&layout=compact" alt="SandeshGC" />
 
+<br/>
 ### Frontend    
- 
- <p align = "left">
+<br/>
+
 <!--React.js-->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img align = "left" title = "React.js" alt = "React" width = "50px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -62,11 +68,10 @@
     <img align="left" title = "Bootstrap" alt="Bootstrap" width = "50px" style = "padding-right:10px;" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 </a>
     
-</p>
+<br/>
+### Backend  
+<br/>
 
-### Backend   
-
-<p align = "left">
 <!--  Node JS  -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img align = "left" title = "Node.js" alt = "Node.js" width = "50px" style = "padding-right:10px;" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -77,8 +82,10 @@
     <img align = "left" title = "Express.js" alt = "Express.js" width = "50px" style = "padding-right:10px;" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </a> 
 
+<br/>
 ### Database
-   
+<br/>
+
 <!--  MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img align = "left" title = "MongoDB" alt = "MongoDB" width = "50px" style = "padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -88,23 +95,19 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img align = "left" title = "MySQL" alt = "MySQL" width = "50px" style = "padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 </a>
-    
-</p>
 
+<br/>
 ### Services
-
-<p align = "left">
+<br/>
 
 <img align = "left" title = "Git" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align = "left" title = "GitHub" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
 <!-- <img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br /> -->
 
-</p>
-
+<br/>
 ### Tools
+<br/>
 
-<p align = "left">
-    
 <!-- Postman -->
 <img align = "left" title = "Postman" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
 
@@ -113,7 +116,7 @@
     <img align = "left" title = "Figma" alt="Figma" width="50px" style = "padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 </a>
 
-</p>
+<br/>
 
 ### Contributions & Streaks:
 <!-- Contributions, Current Streak, Longest streak -->
