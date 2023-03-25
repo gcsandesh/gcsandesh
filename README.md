@@ -13,10 +13,11 @@
     <a href="https://fb.com/gcsandesh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sandesh GC" height="30" width="40" /></a>
     <a href="https://instagram.com/gcsandesh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sandesh GC" height="30" width="40" /></a>
     <a href="https://twitter.com/gcsandesh01" class="twitter-follow-button" data-show-count="false" data-size="medium">Follow @gcsandesh01</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <!--     **Discord**: Boogeyman #4141 -->
 <!--     **Twitter**: [gcsandesh01](https://twitter.com/gcsandesh01) -->
 </p>
+
+<br/>
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +26,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeshGC&show_icons=true&theme=dark&locale=en&layout=compact" alt="SandeshGC" />
 </p>
 
+<br/>
+
 ### Frontend
+    
+    <br/>
+    
     
 <!--React.js-->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -64,6 +70,8 @@
 <br />
 
 ### Backend
+    <br/>
+    
     
 <!--  Node JS  -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -78,7 +86,9 @@
 <br/>
 
 ### Database
-    
+   
+   <br/>
+   
 <!--  MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img align = "left" title = "MongoDB" alt = "MongoDB" width = "50px" style = "padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -93,6 +103,8 @@
  
 ### Services
 
+<br/>
+
 <img align = "left" title = "Git" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align = "left" title = "GitHub" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
 <!-- <img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br /> -->
@@ -100,6 +112,8 @@
 <br/>
 
 ### Tools
+
+<br/>
 
 <!-- Postman -->
 <img align = "left" title = "Postman" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
@@ -113,6 +127,7 @@
 
 ### Contributions & Streaks:
 <!-- Contributions, Current Streak, Longest streak -->
+<br/>
 
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshGC&theme=dark&locale=en" alt="SandeshGC" />
