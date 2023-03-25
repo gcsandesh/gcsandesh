@@ -17,21 +17,15 @@
 <!--     **Twitter**: [gcsandesh01](https://twitter.com/gcsandesh01) -->
 </p>
 
-<br/>
-
 <!-- Languages and Tools -->
+
 <h3 align="left">Languages and Tools:</h3>
 <!-- Most Used Languages -->
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeshGC&show_icons=true&theme=dark&locale=en&layout=compact" alt="SandeshGC" />
 </p>
 
-<br/>
-
-### Frontend
-    
-    <br/>
-    
+### Frontend    
     
 <!--React.js-->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -69,9 +63,7 @@
     
 <br />
 
-### Backend
-    <br/>
-    
+### Backend   
     
 <!--  Node JS  -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -83,11 +75,7 @@
     <img align = "left" title = "Express.js" alt = "Express.js" width = "50px" style = "padding-right:10px;" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </a> 
 
-<br/>
-
 ### Database
-   
-   <br/>
    
 <!--  MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -99,21 +87,13 @@
     <img align = "left" title = "MySQL" alt = "MySQL" width = "50px" style = "padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 </a> 
 
-<br/>
- 
 ### Services
-
-<br/>
 
 <img align = "left" title = "Git" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align = "left" title = "GitHub" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
 <!-- <img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br /> -->
 
-<br/>
-
 ### Tools
-
-<br/>
 
 <!-- Postman -->
 <img align = "left" title = "Postman" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
@@ -123,11 +103,8 @@
     <img align = "left" title = "Figma" alt="Figma" width="50px" style = "padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 </a>
 
-<br/>
-
 ### Contributions & Streaks:
 <!-- Contributions, Current Streak, Longest streak -->
-<br/>
 
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshGC&theme=dark&locale=en" alt="SandeshGC" />
