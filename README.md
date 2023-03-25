@@ -1,11 +1,11 @@
-# About Me
+# **Sandesh GC**
+**` Frontend Developer (React) `**
 
 - 👋 Hi, I’m **SandeshGC**
 - 👀 I’m interested in computers and internet.
 - 🌱 I’m currently learning React.js, Node.js, Express.js & MongoDB.
 - 📫 You can contact me via email at: **gcsandesh01@gmail.com**
 
-**` Frontend Developer (React) `**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,8 @@
 </p>
 
 ### Frontend    
-    
+ 
+ <p align = "left">
 <!--React.js-->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img align = "left" title = "React.js" alt = "React" width = "50px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -61,10 +62,11 @@
     <img align="left" title = "Bootstrap" alt="Bootstrap" width = "50px" style = "padding-right:10px;" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 </a>
     
-<br />
+</p>
 
 ### Backend   
-    
+
+<p align = "left">
 <!--  Node JS  -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img align = "left" title = "Node.js" alt = "Node.js" width = "50px" style = "padding-right:10px;" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -85,16 +87,24 @@
 <!--  MySQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img align = "left" title = "MySQL" alt = "MySQL" width = "50px" style = "padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-</a> 
+</a>
+    
+</p>
 
 ### Services
+
+<p align = "left">
 
 <img align = "left" title = "Git" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align = "left" title = "GitHub" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
 <!-- <img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br /> -->
 
+</p>
+
 ### Tools
 
+<p align = "left">
+    
 <!-- Postman -->
 <img align = "left" title = "Postman" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
 
@@ -102,6 +112,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img align = "left" title = "Figma" alt="Figma" width="50px" style = "padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 </a>
+
+</p>
 
 ### Contributions & Streaks:
 <!-- Contributions, Current Streak, Longest streak -->
