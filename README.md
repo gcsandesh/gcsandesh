@@ -34,32 +34,36 @@
 ### Frontend:
 
 <p align = "left">
-  <!--React.js-->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img align = "left" title = "React.js" alt = "React" width = "50px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <!--   Redux.js   -->
-  <img align = "left" title = "Redux.js" alt = "Redux" width = "50px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <!--   TYPESCRIPT   -->
-  <!--   <img title = "TypeScript" align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
-  <!--   JAVASCRIPT   -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img align="left" title = "JavaScript" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  </a>
-  <!--   HTML   -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img align="left" title = "HTML" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  </a>
-  <!--   CSS   -->
-  <img align="left" title = "CSS" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />  
-  <!--   TAILWIND CSS   -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img align="left" title = "Tailwind CSS" alt = "Tailwind CSS" width = "50px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  </a>
-  <!--  Bootstrap  -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img align="left" title = "Bootstrap" alt="Bootstrap" width = "50px" style = "padding-right:10px;" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  </a>
+    <!--React.js-->
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img align = "left" title = "React.js" alt = "React" width = "50px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    </a>
+    <!--   Next.js   -->
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img align = "left" title = "Next.js" alt = "Next.js" width = "50px" style = "padding-right:10px;" src = "https://user-images.githubusercontent.com/59115123/227729703-9de6485e-a58b-4465-872c-1699848b6c98.png" />
+    </a>
+    <!--   Redux.js   -->
+    <img align = "left" title = "Redux.js" alt = "Redux" width = "50px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    <!--   TYPESCRIPT   -->
+    <!--   <img title = "TypeScript" align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
+    <!--   JAVASCRIPT   -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img align="left" title = "JavaScript" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    </a>
+    <!--   HTML   -->
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img align="left" title = "HTML" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    </a>
+    <!--   CSS   -->
+    <img align="left" title = "CSS" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <!--   TAILWIND CSS   -->
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img align="left" title = "Tailwind CSS" alt = "Tailwind CSS" width = "50px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    </a>
+    <!--  Bootstrap  -->
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img align="left" title = "Bootstrap" alt="Bootstrap" width = "50px" style = "padding-right:10px;" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+    </a>
 </p>
 <br/>
 <br/>
@@ -67,21 +71,21 @@
 ### Backend:
 
 <p align = "left">
-  <a align = "left" href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img align = "left" title = "Node.js" alt = "Node.js" width = "50px" style = "padding-right:10px;" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a align = "left" href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img align = "left" title = "Express.js" alt = "Express.js" width = "50px" style = "padding-right:10px;" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img align="left" title = "Express.js" alt = "Express.js" width="100px" style = "padding-right:10px;" src = "https://user-images.githubusercontent.com/59115123/227729349-b3556e7e-4a89-471d-9595-d25e5572127b.png" />
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img align="left" title = "Node.js" alt = "Node.js" width = "50px" style = "padding-right:10px;" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+    </a>
 </p>
-
 <br/>
-  
+<br/>
+
 ### Database:
 
 <!--  MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img align = "left" title = "MongoDB" alt = "MongoDB" width = "50px" style = "padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img align = "left" title = "MongoDB" alt = "MongoDB" width = "50px" style = "padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 </a> 
  
 <!--  MySQL -->
