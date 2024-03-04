@@ -19,14 +19,10 @@
 
 ## Languages and Tools:
 
-<!-- ![Typescript](https://skillicons.dev/icons?i=ts "Typescript") -->
 ![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")
 ![React JS](https://skillicons.dev/icons?i=react "React JS")
-<!-- ![Next JS](https://skillicons.dev/icons?i=nextjs "Next JS") -->
-<!-- ![Redux](https://skillicons.dev/icons?i=redux "Redux") -->
 ![Express JS](https://skillicons.dev/icons?i=expressjs "Express JS")
 ![Node JS](https://skillicons.dev/icons?i=nodejs "Node JS")
-<!-- ![Firebase](https://skillicons.dev/icons?i=firebase "Firebase") -->
 ![Mongo DB](https://skillicons.dev/icons?i=mongodb "Mongo DB")
 ![Postgres DB](https://skillicons.dev/icons?i=postgres "Postgres DB")
 ![MYSQL](https://skillicons.dev/icons?i=mysql "MySQL")
@@ -37,9 +33,13 @@
 ![GitLab](https://skillicons.dev/icons?i=gitlab "GitLab")
 ![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")
 ![Postman](https://skillicons.dev/icons?i=postman "Postman")
-<!-- ![Figma](https://skillicons.dev/icons?i=figma "Figma") -->
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode "Visual Studio Code")
 ![Linux](https://skillicons.dev/icons?i=linux "Linux")
+<!-- ![Typescript](https://skillicons.dev/icons?i=ts "Typescript") -->
+<!-- ![Next JS](https://skillicons.dev/icons?i=nextjs "Next JS") -->
+<!-- ![Redux](https://skillicons.dev/icons?i=redux "Redux") -->
+<!-- ![Figma](https://skillicons.dev/icons?i=figma "Figma") -->
+<!-- ![Firebase](https://skillicons.dev/icons?i=firebase "Firebase") -->
 
 ---
 
