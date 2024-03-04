@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m [**Sandesh GC**](https://www.gcsandesh.com.np/)
 - 👀 I’m interested in computers and internet.
-- 🌱 I’m currently learning React.js, Node.js, Express.js & MongoDB.
+- 🌱 I’m currently learning React.js & Python.
 - 📫 You can contact me via email at: **gcsandesh01@gmail.com**
 ---
 
@@ -19,14 +19,14 @@
 
 ## Languages and Tools:
 
-![Typescript](https://skillicons.dev/icons?i=ts "Typescript")
+<!-- ![Typescript](https://skillicons.dev/icons?i=ts "Typescript") -->
 ![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")
-![Node JS](https://skillicons.dev/icons?i=nodejs "Node JS")
-![Express JS](https://skillicons.dev/icons?i=expressjs "Express JS")
-![Next JS](https://skillicons.dev/icons?i=nextjs "Next JS")
 ![React JS](https://skillicons.dev/icons?i=react "React JS")
-![Redux](https://skillicons.dev/icons?i=redux "Redux")
-![Firebase](https://skillicons.dev/icons?i=firebase "Firebase")
+<!-- ![Next JS](https://skillicons.dev/icons?i=nextjs "Next JS") -->
+<!-- ![Redux](https://skillicons.dev/icons?i=redux "Redux") -->
+![Express JS](https://skillicons.dev/icons?i=expressjs "Express JS")
+![Node JS](https://skillicons.dev/icons?i=nodejs "Node JS")
+<!-- ![Firebase](https://skillicons.dev/icons?i=firebase "Firebase") -->
 ![Mongo DB](https://skillicons.dev/icons?i=mongodb "Mongo DB")
 ![Postgres DB](https://skillicons.dev/icons?i=postgres "Postgres DB")
 ![MYSQL](https://skillicons.dev/icons?i=mysql "MySQL")
@@ -37,7 +37,7 @@
 ![GitLab](https://skillicons.dev/icons?i=gitlab "GitLab")
 ![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")
 ![Postman](https://skillicons.dev/icons?i=postman "Postman")
-![Figma](https://skillicons.dev/icons?i=figma "Figma")
+<!-- ![Figma](https://skillicons.dev/icons?i=figma "Figma") -->
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode "Visual Studio Code")
 ![Linux](https://skillicons.dev/icons?i=linux "Linux")
 
