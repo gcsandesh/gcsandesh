@@ -13,6 +13,8 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter "Twitter")](https://twitter.com/gcsandesh01)
 
 ### Hire me: [Upwork](https://www.upwork.com/freelancers/~019e33ef393aa62d4f?s=1110580755057594368)
+<!-- ### [Download CV](https://github.com/gcsandesh/SandeshGC/files/15024335/Sandesh_G.C._CV.pdf) -->
+
 
 ### Know more about me at: [https://www.gcsandesh.com.np](https://www.gcsandesh.com.np)
 ---
