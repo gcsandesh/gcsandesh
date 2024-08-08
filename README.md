@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sandesh G.C.
 
-**` Frontend Developer (React.js) `**
+**` Full Stack Developer (MERN) `**
 
 - 👋 Hi, I’m [**Sandesh G.C.**](https://www.gcsandesh.me/)
 - 👀 I’m interested in computers and the Internet.
