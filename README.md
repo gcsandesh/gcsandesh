@@ -16,7 +16,7 @@
 <!-- ### [Download CV](https://github.com/gcsandesh/SandeshGC/files/15024335/Sandesh_G.C._CV.pdf) -->
 
 
-### Know more about me at: [https://www.gcsandesh.me](https://www.gcsandesh.me)
+### Know more about me at: [https://www.gcsandesh.com.np](https://www.gcsandesh.com.np)
 ---
 
 ## Languages and Tools:
