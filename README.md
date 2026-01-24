@@ -4,7 +4,6 @@
 
 - 👋 Hi, I’m [**Sandesh G.C.**](https://www.gcsandesh.me/)
 - 👀 I’m interested in computers and the Internet.
-- 🌱 I’m currently learning React.js & Python.
 - 📫 You can contact me via email at: **gcsandesh01@gmail.com**
 ---
 
