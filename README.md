@@ -3,17 +3,18 @@
 
 I build production web apps end to end, from the database schema to the last pixel of the UI. Currently the full-stack engineer on an enterprise Fixed Asset Management SaaS platform, owning the React/TypeScript frontend and about half the Express/MongoDB backend.
 
+
 - 🔭 Currently building dashboards, REST APIs, and auth systems for enterprise clients
-- - 💼 Open to freelance work: dashboards, admin panels, REST APIs, rescue/refactor jobs
-  - - 📫 Reach me at **gcsandesh01@gmail.com**
+- 💼 Open to freelance work: dashboards, admin panels, REST APIs, rescue/refactor jobs
+  - 📫 Reach me at **gcsandesh01@gmail.com**
    
-    - ---
+    ---
 
     ### Connect with me
     [![Linkedin](https://skillicons.dev/icons?i=linkedin "Linkedin")](https://www.linkedin.com/in/sandesh-g-c-8236b2195/)
     [![Twitter](https://skillicons.dev/icons?i=twitter "Twitter")](https://twitter.com/gcsandesh_)
 
-    ### Hire me: [Upwork](https://www.upwork.com/freelancers/~019e33ef393aa62d4f?s=1110580755057594368)
+    ### Hire me: [Upwork](https://www.upwork.com/freelancers/~0140510c39a1b9d47f)
 
     ### More about me: [https://gcsandesh.com.np](https://gcsandesh.com.np)
 
